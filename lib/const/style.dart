@@ -24,7 +24,11 @@ class DashboardStyle {
   ///76 ,122 ,84 ,1
   static Color greenText = const Color.fromRGBO(103, 180, 113, 1);
 
+  ///255 ,255 ,255 ,0.9
   static Color whiteText = const Color.fromRGBO(255, 255, 255, 0.9);
+
+  ///234 ,145 ,0
+  static Color orangeText = const Color.fromRGBO(234, 145, 0, 1);
 
   static Color greyButtonBorder=const Color.fromRGBO(126, 126, 126, 0.2);
 
